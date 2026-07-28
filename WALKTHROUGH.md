@@ -1,4 +1,4 @@
-# TicketWise - Developer Walkthrough
+# TicketWise - Walkthrough
 
 This is a writeup of how I built the project, what I was thinking at each step, and what went wrong along the way.
 
