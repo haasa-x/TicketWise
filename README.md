@@ -65,4 +65,4 @@ TicketWise/
 - Description: "It's not working properly and I don't know why."
 - Urgency: Medium
 - Expected: low confidence score, manual-review warning displayed, LLM response still
-  generated (or gracefully skipped if the API key is missing/invalid).
+  generated (or skipped if the API key is missing/invalid).
