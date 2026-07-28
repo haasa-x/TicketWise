@@ -1,0 +1,105 @@
+{
+  "naive_bayes": {
+    "accuracy": 0.94,
+    "precision": 0.9538461538461539,
+    "recall": 0.94,
+    "f1": 0.9386189258312021,
+    "confusion_matrix": [
+      [
+        7,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        10
+      ]
+    ],
+    "labels": [
+      "Access Issue",
+      "Billing Issue",
+      "Feature Request",
+      "Performance Issue",
+      "Product Defect"
+    ],
+    "report": "                   precision    recall  f1-score   support\n\n     Access Issue       1.00      0.70      0.82        10\n    Billing Issue       1.00      1.00      1.00        11\n  Feature Request       1.00      1.00      1.00        10\nPerformance Issue       1.00      1.00      1.00         9\n   Product Defect       0.77      1.00      0.87        10\n\n         accuracy                           0.94        50\n        macro avg       0.95      0.94      0.94        50\n     weighted avg       0.95      0.94      0.94        50\n"
+  },
+  "logistic_regression": {
+    "accuracy": 0.94,
+    "precision": 0.9538461538461539,
+    "recall": 0.94,
+    "f1": 0.9386189258312021,
+    "confusion_matrix": [
+      [
+        7,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        10
+      ]
+    ],
+    "labels": [
+      "Access Issue",
+      "Billing Issue",
+      "Feature Request",
+      "Performance Issue",
+      "Product Defect"
+    ],
+    "report": "                   precision    recall  f1-score   support\n\n     Access Issue       1.00      0.70      0.82        10\n    Billing Issue       1.00      1.00      1.00        11\n  Feature Request       1.00      1.00      1.00        10\nPerformance Issue       1.00      1.00      1.00         9\n   Product Defect       0.77      1.00      0.87        10\n\n         accuracy                           0.94        50\n        macro avg       0.95      0.94      0.94        50\n     weighted avg       0.95      0.94      0.94        50\n"
+  },
+  "best_model": "naive_bayes"
+}

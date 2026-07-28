@@ -1,0 +1,251 @@
+ticket_id,subject,description,category,urgency
+1165,Search results lag significantly,Typing a search query causes a long delay before any results appear on screen. Let me know if you need more details.,Performance Issue,High
+1086,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. I have already tried clearing my cache.,Billing Issue,Medium
+1245,Ability to customize dashboard widgets,It would help to rearrange or hide dashboard widgets based on personal preference.,Feature Request,Medium
+1217,Need bulk export option,Please add a way to export multiple reports at once instead of one at a time. Please help as soon as possible.,Feature Request,Critical
+1243,Request for a cheaper billing tier,It would be useful to have a lower cost plan for smaller teams like ours. This is affecting my whole team.,Feature Request,High
+1046,Cannot log into my account,I keep getting an invalid credentials issue even after resetting my password. Please help as soon as possible.,Access Issue,Critical
+1012,Cannot log into my account,I keep getting an invalid credentials error even after resetting my password. Not sure if this is a known issue.,Access Issue,High
+1199,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. I have already tried clearing my cache.,Performance Issue,High
+1149,Broken image upload in profile,Uploading a profile picture fails with a generic issue message every single time.,Product Defect,Critical
+1156,Video streaming buffers constantly,The in-app video tutorials buffer every few seconds even on a fast connection. Please help as soon as possible.,Performance Issue,Medium
+1117,Settings page freezes on load,Opening the settings menu freezes the whole app and I have to force close it. Not sure if this is a known issue.,Product Defect,Medium
+1050,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. Not sure if this is a known issue.,Billing Issue,Medium
+1241,Request for a cheaper billing tier,It would be useful to have a lower cost plan for smaller teams like ours. Not sure if this is a known issue.,Feature Request,Medium
+1027,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. Let me know if you need more details.,Access Issue,Medium
+1043,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. This is affecting my whole team.,Access Issue,Low
+1153,Application freezes randomly,The whole application freezes at random moments and I have to restart it. This has been going on for two days now.,Performance Issue,High
+1131,Broken image upload in profile,Uploading a profile picture fails with a generic error message every single time. I have already tried clearing my cache.,Product Defect,Medium
+1004,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. Happens on both desktop and mobile.,Access Issue,Low
+1017,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. I have already tried clearing my cache.,Access Issue,Low
+1128,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. I have already tried clearing my cache.",Product Defect,Medium
+1071,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. I have already tried clearing my cache.,Billing Issue,High
+1240,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically.,Feature Request,Critical
+1236,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. Happens on both desktop and mobile.,Feature Request,High
+1037,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. Happens on both desktop and mobile.,Access Issue,High
+1200,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. Please look into this soon.,Feature Request,Low
+1024,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. Thanks in advance for your help.,Access Issue,Medium
+1132,Report generation gets stuck,Generating a report seems to hang indefinitely and never actually finishes. Please help as soon as possible.,Product Defect,Critical
+1129,Settings page freezes on load,Opening the settings menu freezes the whole app and I have to force close it. This has been going on for two days now.,Product Defect,High
+1212,Requesting dark mode support,It would be great if the application had a dark mode option for night time use. Let me know if you need more details.,Feature Request,Low
+1219,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. This is affecting my whole team.,Performance Issue,High
+1001,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. This is affecting my whole team.,Feature Request,Medium
+1203,Need bulk export option,Please add a way to export multiple reports at once instead of one at a time. I contacted support before about a similar issue.,Feature Request,Low
+1182,Search results lag significantly,Typing a search query causes a long delay before any results appear on screen. I have already tried clearing my cache.,Performance Issue,High
+1154,Video streaming buffers constantly,The in-app video tutorials buffer every few seconds even on a fast connection. This is affecting my whole team.,Performance Issue,Critical
+1081,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. Happens on both desktop and mobile.,Billing Issue,Medium
+1048,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. This has been going on for two days now.,Access Issue,High
+1230,Ability to customize dashboard widgets,It would help to rearrange or hide dashboard widgets based on personal preference. Thanks in advance for your help.,Feature Request,High
+1098,Would like an itemized billing breakdown,It would help to see a more detailed breakdown of charges on my monthly invoice. Please help as soon as possible.,Billing Issue,Low
+1171,Application freezes randomly,The whole application freezes at random moments and I have to restart it. Happens on both desktop and mobile.,Performance Issue,Critical
+1167,Slow response during file upload,Uploading large files causes the entire application to freeze for several minutes. I have already tried clearing my cache.,Billing Issue,Medium
+1091,Unable to update payment method,Every time I try to add a new credit card the payment form throws an error. Let me know if you need more details.,Billing Issue,Critical
+1073,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. Please help as soon as possible.,Billing Issue,Critical
+1096,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. Let me know if you need more details.,Billing Issue,Medium
+1065,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. I have already tried clearing my cache.,Billing Issue,Low
+1173,Application freezes randomly,The whole application freezes at random moments and I have to restart it.,Performance Issue,Low
+1157,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. Thanks in advance for your help.,Performance Issue,Critical
+1111,Broken image upload in profile,Uploading a profile picture fails with a generic error message every single time. Thanks in advance for your help.,Product Defect,Low
+1068,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. Thanks in advance for your help.,Billing Issue,Low
+1218,Suggestion to speed up report loading,Reports could load faster if there was an option to load a lighter summary view. This has been going on for two days now.,Feature Request,Medium
+1234,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. Please help as soon as possible.,Feature Request,High
+1188,Slow response during file upload,Uploading large files causes the entire application to freeze for several minutes. Please help as soon as possible.,Performance Issue,Medium
+1105,Notifications stopped working,I used to get email notifications for new comments but they suddenly stopped. Not sure if this is a known issue.,Product Defect,Low
+1006,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. I have already tried clearing my cache.,Access Issue,Critical
+1042,SSO login redirects to blank page,When I click login with company SSO it redirects me to a blank white page. I contacted support before about a similar issue.,Access Issue,Critical
+1139,Export feature produces corrupted file,"Whenever I export my report to PDF, the downloaded file is corrupted and won't open. Thanks in advance for your help.",Product Defect,Medium
+1099,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. This has been going on for two days now.,Billing Issue,Medium
+1224,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. I have already tried clearing my cache.,Feature Request,Low
+1085,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. Thanks in advance for your help.,Billing Issue,Low
+1158,Application freezes randomly,The whole application freezes at random moments and I have to restart it. Please help as soon as possible.,Performance Issue,High
+1193,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. Happens on both desktop and mobile.,Performance Issue,Critical
+1031,Locked out after password reset,I reset my password an hour ago but the system still says my account is locked. I contacted support before about a similar issue.,Access Issue,High
+1052,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. Not sure if this is a known issue.,Billing Issue,Critical
+1207,Requesting dark mode support,It would be great if the application had a dark mode option for night time use. This is affecting my whole team.,Feature Request,Critical
+1079,Would like an itemized billing breakdown,It would help to see a more detailed breakdown of charges on my monthly invoice. This has been going on for two days now.,Billing Issue,Medium
+1023,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. This is affecting my whole team.,Access Issue,Low
+1035,Locked out after password reset,I reset my password an hour ago but the system still says my account is locked. Let me know if you need more details.,Access Issue,High
+1083,Would like an itemized billing breakdown,It would help to see a more detailed breakdown of charges on my monthly invoice. This has been going on for two days now.,Billing Issue,Critical
+1066,Refund not received yet,I cancelled my subscription three weeks ago and the refund still hasn't shown up.,Billing Issue,Medium
+1060,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. I contacted support before about a similar issue.,Billing Issue,Critical
+1022,Two factor authentication not working,"The OTP code never arrives on my registered phone number, so I can't sign in. Not sure if this is a known issue.",Access Issue,Medium
+1114,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. This has been going on for two days now.",Product Defect,Low
+1119,Broken image upload in profile,Uploading a profile picture fails with a generic error message every single time.,Product Defect,Low
+1002,Locked out after password reset,I reset my password an hour ago but the system still says my account is locked. Please help as soon as possible.,Access Issue,Low
+1118,Settings page freezes on load,Opening the settings menu freezes the whole app and I have to force close it. Thanks in advance for your help.,Product Defect,High
+1192,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports.,Feature Request,Medium
+1183,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. Let me know if you need more details.,Performance Issue,Critical
+1187,Search results lag significantly,Typing a search query causes a long delay before any results appear on screen. Let me know if you need more details.,Performance Issue,Low
+1166,Dashboard takes forever to load,"The main dashboard takes over thirty seconds to load, it used to be instant. I have already tried clearing my cache.",Performance Issue,High
+1041,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. This has been going on for two days now.,Access Issue,Critical
+1214,Request for a cheaper billing tier,It would be useful to have a lower cost plan for smaller teams like ours. Thanks in advance for your help.,Feature Request,Low
+1005,Cannot log into my account,I keep getting an invalid credentials issue even after resetting my password. I have already tried clearing my cache.,Access Issue,Low
+1151,Search results lag significantly,Typing a search query causes a long delay before any results appear on screen. Happens on both desktop and mobile.,Performance Issue,Low
+1010,Two factor authentication not working,"The OTP code never arrives on my registered phone number, so I can't sign in. Please help as soon as possible.",Access Issue,Medium
+1093,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost.,Billing Issue,Low
+1159,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. Let me know if you need more details.,Performance Issue,Low
+1107,Export feature produces corrupted file,"Whenever I export my report to PDF, the downloaded file is corrupted and won't open. Let me know if you need more details.",Product Defect,Medium
+1174,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. Happens on both desktop and mobile.,Performance Issue,Medium
+1247,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. Let me know if you need more details.,Feature Request,Medium
+1051,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. Let me know if you need more details.,Billing Issue,Low
+1186,Slow response during file upload,Uploading large files causes the entire application to freeze for several minutes. This is affecting my whole team.,Performance Issue,High
+1237,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. I have already tried clearing my cache.,Feature Request,Low
+1127,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. Not sure if this is a known issue.",Product Defect,Low
+1162,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. Please look into this soon.,Performance Issue,Critical
+1248,Suggestion to speed up report loading,Reports could load faster if there was an option to load a lighter summary view. Please look into this soon.,Feature Request,Critical
+1124,Broken image upload in profile,Uploading a profile picture fails with a generic issue message every single time. This has been going on for two days now.,Product Defect,Medium
+1196,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports.,Performance Issue,High
+1095,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. I contacted support before about a similar issue.,Billing Issue,Critical
+1242,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. I have already tried clearing my cache.,Feature Request,High
+1039,Cannot log into my account,I keep getting an invalid credentials error even after resetting my password. This has been going on for two days now.,Access Issue,Medium
+1160,Search results lag significantly,Typing a search query causes a long delay before any results appear on screen. This is affecting my whole team.,Performance Issue,Medium
+1007,Locked out after password reset,I reset my password an hour ago but the system still says my account is locked. Please look into this soon.,Access Issue,High
+1130,Report generation gets stuck,Generating a report seems to hang indefinitely and never actually finishes. Let me know if you need more details.,Product Defect,Critical
+1168,Dashboard takes forever to load,"The main dashboard takes over thirty seconds to load, it used to be instant.",Performance Issue,Medium
+1034,Locked out after password reset,I reset my password an hour ago but the system still says my account is locked. This is affecting my whole team.,Access Issue,Medium
+1238,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. Please look into this soon.,Feature Request,Medium
+1082,Refund not received yet,I cancelled my subscription three weeks ago and the refund still hasn't shown up. Please look into this soon.,Billing Issue,Medium
+1028,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. Not sure if this is a known issue.,Access Issue,Low
+1229,Suggestion to speed up report loading,Reports could load faster if there was an option to load a lighter summary view. Not sure if this is a known issue.,Feature Request,Low
+1014,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. Please look into this soon.,Access Issue,Low
+1220,Need bulk export option,Please add a way to export multiple reports at once instead of one at a time. I contacted support before about a similar issue.,Feature Request,Low
+1143,Settings page freezes on load,Opening the settings menu freezes the whole app and I have to force close it. Let me know if you need more details.,Product Defect,High
+1170,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. Happens on both desktop and mobile.,Performance Issue,Medium
+1233,Suggestion to speed up report loading,Reports could load faster if there was an option to load a lighter summary view. Please look into this soon.,Feature Request,Medium
+1202,Suggestion to speed up report loading,Reports could load faster if there was an option to load a lighter summary view. Please help as soon as possible.,Feature Request,Critical
+1222,Requesting dark mode support,It would be great if the application had a dark mode option for night time use. I contacted support before about a similar issue.,Feature Request,Low
+1101,Broken image upload in profile,Uploading a profile picture fails with a generic error message every single time. I contacted support before about a similar issue.,Product Defect,Low
+1100,Notifications stopped working,I used to get email notifications for new comments but they suddenly stopped. This has been going on for two days now.,Product Defect,Medium
+1033,SSO login redirects to blank page,When I click login with company SSO it redirects me to a blank white page. Thanks in advance for your help.,Access Issue,Critical
+1172,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. I have already tried clearing my cache.,Feature Request,Medium
+1246,Requesting dark mode support,It would be great if the application had a dark mode option for night time use. I have already tried clearing my cache.,Feature Request,Critical
+1009,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. Happens on both desktop and mobile.,Access Issue,High
+1201,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. Not sure if this is a known issue.,Feature Request,Critical
+1110,Report generation gets stuck,Generating a report seems to hang indefinitely and never actually finishes. Let me know if you need more details.,Product Defect,High
+1089,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. Happens on both desktop and mobile.,Billing Issue,High
+1126,Notifications stopped working,I used to get email notifications for new comments but they suddenly stopped. Please help as soon as possible.,Product Defect,Low
+1232,Requesting dark mode support,It would be great if the application had a dark mode option for night time use. Happens on both desktop and mobile.,Feature Request,High
+1036,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. I contacted support before about a similar issue.,Access Issue,Critical
+1226,Requesting dark mode support,It would be great if the application had a dark mode option for night time use. This is affecting my whole team.,Billing Issue,Low
+1008,Account access request stuck pending,I submitted an access request last week and it still shows as pending with no update.,Access Issue,Medium
+1213,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. I have already tried clearing my cache.,Feature Request,Low
+1180,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. Let me know if you need more details.,Product Defect,Critical
+1209,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. Not sure if this is a known issue.,Feature Request,Critical
+1104,App crashes when opening settings,The mobile app crashes right away every time I tap on the settings menu. Please help as soon as possible.,Product Defect,High
+1000,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. This has been going on for two days now.,Access Issue,Low
+1138,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. I have already tried clearing my cache.",Product Defect,Medium
+1019,Account access request stuck pending,I submitted an access request last week and it still shows as pending with no update. I have already tried clearing my cache.,Access Issue,Low
+1044,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. This has been going on for two days now.,Access Issue,High
+1061,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. Let me know if you need more details.,Billing Issue,Medium
+1040,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. Please help as soon as possible.,Access Issue,Critical
+1020,SSO login redirects to blank page,When I click login with company SSO it redirects me to a blank white page. This is affecting my whole team.,Access Issue,Critical
+1067,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. I have already tried clearing my cache.,Billing Issue,Low
+1054,Would like an itemized billing breakdown,It would help to see a more detailed breakdown of charges on my monthly invoice. This is affecting my whole team.,Billing Issue,Medium
+1053,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. This has been going on for two days now.,Billing Issue,High
+1204,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions. I contacted support before about a similar issue.,Feature Request,Low
+1015,SSO login redirects to blank page,When I click login with company SSO it redirects me to a blank white page. This has been going on for two days now.,Access Issue,High
+1145,App crashes when opening settings,The mobile app crashes immediately every time I tap on the settings menu. This is affecting my whole team.,Product Defect,Low
+1228,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. Let me know if you need more details.,Feature Request,Critical
+1109,App crashes when opening settings,The mobile app crashes immediately every time I tap on the settings menu. Please help as soon as possible.,Product Defect,Critical
+1076,Billing page loads very slowly,Every time I open the billing section the page takes forever before showing my invoices. Happens on both desktop and mobile.,Billing Issue,High
+1113,Settings page freezes on load,Opening the settings menu freezes the whole app and I have to force close it. This has been going on for two days now.,Product Defect,Medium
+1115,Settings page freezes on load,Opening the settings menu freezes the whole app and I have to force close it. Let me know if you need more details.,Product Defect,Medium
+1097,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. Let me know if you need more details.,Billing Issue,Low
+1133,Export feature produces corrupted file,"Whenever I export my report to PDF, the downloaded file is corrupted and won't open. Please help as soon as possible.",Product Defect,High
+1057,Would like an itemized billing breakdown,It would help to see a more detailed breakdown of charges on my monthly invoice. Let me know if you need more details.,Billing Issue,Medium
+1206,Need bulk export option,Please add a way to export multiple reports at once instead of one at a time. Please look into this soon.,Feature Request,Medium
+1155,Search results lag significantly,Typing a search query causes a long delay before any results appear on screen. Happens on both desktop and mobile.,Performance Issue,High
+1106,Export feature produces corrupted file,"Whenever I export my report to PDF, the downloaded file is corrupted and won't open. Please look into this soon.",Product Defect,Low
+1142,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. Thanks in advance for your help.",Product Defect,Critical
+1221,Request for a cheaper billing tier,It would be useful to have a lower cost plan for smaller teams like ours. Please help as soon as possible.,Feature Request,High
+1063,Billing page loads very slowly,Every time I open the billing section the page takes forever before showing my invoices. Thanks in advance for your help.,Billing Issue,High
+1021,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. Not sure if this is a known issue.,Access Issue,Medium
+1198,Video streaming buffers constantly,The in-app video tutorials buffer every few seconds even on a fast connection. Let me know if you need more details.,Performance Issue,Medium
+1144,Export feature produces corrupted file,"Whenever I export my report to PDF, the downloaded file is corrupted and won't open. This has been going on for two days now.",Product Defect,High
+1164,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. Please help as soon as possible.,Performance Issue,Low
+1038,Locked out after password reset,I reset my password an hour ago but the system still says my account is locked. Please help as soon as possible.,Access Issue,Critical
+1175,Slow response during file upload,Uploading large files causes the entire application to freeze for several minutes. Let me know if you need more details.,Billing Issue,Critical
+1161,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. I contacted support before about a similar issue.,Performance Issue,High
+1147,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. Not sure if this is a known issue.",Product Defect,Critical
+1018,Cannot log into my account,I keep getting an invalid credentials error even after resetting my password. This is affecting my whole team.,Access Issue,Low
+1210,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. Happens on both desktop and mobile.,Feature Request,High
+1102,Notifications stopped working,I used to get email notifications for new comments but they suddenly stopped. Thanks in advance for your help.,Product Defect,High
+1016,Account access request stuck pending,I submitted an access request last week and it still shows as pending with no update. Thanks in advance for your help.,Access Issue,High
+1029,Locked out after password reset,I reset my password an hour ago but the system still says my account is locked.,Access Issue,High
+1231,Requesting dark mode support,It would be great if the application had a dark mode option for night time use. Happens on both desktop and mobile.,Feature Request,Critical
+1227,Request for a cheaper billing tier,It would be useful to have a lower cost plan for smaller teams like ours. I contacted support before about a similar issue.,Feature Request,Low
+1191,Search results lag significantly,Typing a search query causes a long delay before any results appear on screen. Let me know if you need more details.,Performance Issue,Critical
+1216,Need bulk export option,Please add a way to export multiple reports at once instead of one at a time.,Feature Request,Medium
+1087,Unable to update payment method,Every time I try to add a new credit card the payment form throws an error. I have already tried clearing my cache.,Billing Issue,Critical
+1112,Settings page freezes on load,Opening the settings menu freezes the whole app and I have to force close it. Let me know if you need more details.,Product Defect,High
+1122,Report generation gets stuck,Generating a report seems to hang indefinitely and never actually finishes. Please help as soon as possible.,Product Defect,High
+1120,Settings page freezes on load,Opening the settings menu freezes the whole app and I have to force close it. Happens on both desktop and mobile.,Performance Issue,High
+1205,Requesting dark mode support,It would be great if the application had a dark mode option for night time use. Thanks in advance for your help.,Feature Request,Critical
+1146,Export feature produces corrupted file,"Whenever I export my report to PDF, the downloaded file is corrupted and won't open. I contacted support before about a similar issue.",Product Defect,Critical
+1197,Search results lag significantly,Typing a search query causes a long delay before any results appear on screen. Happens on both desktop and mobile.,Product Defect,Critical
+1026,SSO login redirects to blank page,When I click login with company SSO it redirects me to a blank white page. Happens on both desktop and mobile.,Access Issue,High
+1125,Broken image upload in profile,Uploading a profile picture fails with a generic issue message every single time. Not sure if this is a known issue.,Product Defect,Medium
+1163,Application freezes randomly,The whole application freezes at random moments and I have to restart it. I have already tried clearing my cache.,Performance Issue,Critical
+1208,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. I have already tried clearing my cache.,Feature Request,Critical
+1178,Slow response during file upload,Uploading large files causes the entire application to freeze for several minutes. Please look into this soon.,Performance Issue,High
+1074,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. Please look into this soon.,Billing Issue,Critical
+1239,Request for a cheaper billing tier,It would be useful to have a lower cost plan for smaller teams like ours. Please look into this soon.,Feature Request,Critical
+1013,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. This is affecting my whole team.,Access Issue,Low
+1011,Account access request stuck pending,I submitted an access request last week and it still shows as pending with no update. Not sure if this is a known issue.,Access Issue,Low
+1211,Request for a cheaper billing tier,It would be useful to have a lower cost plan for smaller teams like ours. This has been going on for two days now.,Feature Request,Critical
+1032,Locked out after password reset,I reset my password an hour ago but the system still says my account is locked. Thanks in advance for your help.,Access Issue,Critical
+1136,Notifications stopped working,I used to get email notifications for new comments but they suddenly stopped.,Product Defect,Critical
+1181,Slow response during file upload,Uploading large files causes the entire application to freeze for several minutes. Please look into this soon.,Performance Issue,Critical
+1003,Login page is extremely slow to respond,The login screen takes ages to load before I can even enter my password. Let me know if you need more details.,Access Issue,Low
+1077,Unable to update payment method,Every time I try to add a new credit card the payment form throws an error.,Billing Issue,Low
+1045,Account access request stuck pending,I submitted an access request last week and it still shows as pending with no update. Thanks in advance for your help.,Access Issue,High
+1092,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. I have already tried clearing my cache.,Billing Issue,High
+1058,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. Thanks in advance for your help.,Billing Issue,Critical
+1249,Request for keyboard shortcuts,Power users would benefit a lot from keyboard shortcuts for common actions.,Feature Request,Low
+1215,Request for a cheaper billing tier,It would be useful to have a lower cost plan for smaller teams like ours.,Feature Request,Medium
+1025,New employee cannot access dashboard,Our new hire was given credentials but the dashboard shows a permission denied screen. I have already tried clearing my cache.,Access Issue,Medium
+1072,Billing page loads very slowly,Every time I open the billing section the page takes forever before showing my invoices. Please look into this soon.,Billing Issue,Medium
+1152,Application freezes randomly,The whole application freezes at random moments and I have to restart it. Not sure if this is a known issue.,Performance Issue,High
+1134,Report generation gets stuck,Generating a report seems to hang indefinitely and never actually finishes. Happens on both desktop and mobile.,Product Defect,Medium
+1194,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. I contacted support before about a similar issue.,Performance Issue,Low
+1150,Dashboard takes forever to load,"The main dashboard takes over thirty seconds to load, it used to be instant. Let me know if you need more details.",Performance Issue,Medium
+1185,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. This has been going on for two days now.,Performance Issue,High
+1070,Would like an itemized billing breakdown,It would help to see a more detailed breakdown of charges on my monthly invoice. Not sure if this is a known issue.,Billing Issue,Low
+1123,App crashes when opening settings,The mobile app crashes immediately every time I tap on the settings menu. Let me know if you need more details.,Product Defect,Critical
+1189,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. Please help as soon as possible.,Feature Request,Medium
+1055,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. I have already tried clearing my cache.,Billing Issue,Low
+1223,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. I contacted support before about a similar issue.,Product Defect,Critical
+1047,Cannot log into my account,I keep getting an invalid credentials error even after resetting my password. This is affecting my whole team.,Access Issue,Medium
+1176,Dashboard takes forever to load,"The main dashboard takes over thirty seconds to load, it used to be instant. Let me know if you need more details.",Performance Issue,Medium
+1195,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. I contacted support before about a similar issue.,Performance Issue,Critical
+1137,App crashes when opening settings,The mobile app crashes right away every time I tap on the settings menu. Please look into this soon.,Product Defect,High
+1235,Ability to customize dashboard widgets,It would help to rearrange or hide dashboard widgets based on personal preference. Let me know if you need more details.,Feature Request,Critical
+1225,Ability to customize dashboard widgets,It would help to rearrange or hide dashboard widgets based on personal preference. Thanks in advance for your help.,Feature Request,Medium
+1080,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. I have already tried clearing my cache.,Billing Issue,Critical
+1049,Account access request stuck pending,I submitted an access request last week and it still shows as pending with no update. Thanks in advance for your help.,Access Issue,Medium
+1184,Application freezes randomly,The whole application freezes at random moments and I have to restart it. I have already tried clearing my cache.,Performance Issue,High
+1030,SSO login redirects to blank page,When I click login with company SSO it redirects me to a blank white page. This is affecting my whole team.,Access Issue,Low
+1059,Coupon code not applied at checkout,I entered a valid discount coupon but the final price did not change at all. Please help as soon as possible.,Billing Issue,High
+1064,Unable to update payment method,Every time I try to add a new credit card the payment form throws an error. Please look into this soon.,Billing Issue,Low
+1244,Add calendar integration,Could you integrate with Google Calendar so deadlines sync automatically. I contacted support before about a similar issue.,Feature Request,High
+1069,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. This has been going on for two days now.,Billing Issue,Low
+1116,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. This is affecting my whole team.",Product Defect,Medium
+1179,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. Please look into this soon.,Performance Issue,Critical
+1090,Would like an itemized billing breakdown,It would help to see a more detailed breakdown of charges on my monthly invoice. Please look into this soon.,Billing Issue,High
+1084,Would like an itemized billing breakdown,It would help to see a more detailed breakdown of charges on my monthly invoice. Let me know if you need more details.,Feature Request,Low
+1140,Notifications stopped working,I used to get email notifications for new comments but they suddenly stopped. Not sure if this is a known issue.,Product Defect,High
+1190,Dashboard takes forever to load,"The main dashboard takes over thirty seconds to load, it used to be instant. Happens on both desktop and mobile.",Performance Issue,Critical
+1108,Broken image upload in profile,Uploading a profile picture fails with a generic issue message every single time. Not sure if this is a known issue.,Product Defect,Low
+1088,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. Please help as soon as possible.,Billing Issue,Critical
+1135,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. Please help as soon as possible.",Access Issue,Low
+1141,Report generation gets stuck,Generating a report seems to hang indefinitely and never actually finishes. This has been going on for two days now.,Product Defect,High
+1121,Export feature produces corrupted file,"Whenever I export my report to PDF, the downloaded file is corrupted and won't open.",Product Defect,High
+1094,Billing page loads very slowly,Every time I open the billing section the page takes forever before showing my invoices. Not sure if this is a known issue.,Billing Issue,Low
+1148,Broken image upload in profile,Uploading a profile picture fails with a generic error message every single time. This has been going on for two days now.,Billing Issue,Critical
+1169,Frequent timeouts on peak hours,During business hours the application times out repeatedly when loading reports. I contacted support before about a similar issue.,Performance Issue,Low
+1078,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. Happens on both desktop and mobile.,Billing Issue,High
+1062,Billing page loads very slowly,Every time I open the billing section the page takes forever before showing my invoices. This is affecting my whole team.,Billing Issue,Critical
+1177,Login takes unusually long,Signing in used to be instant but now it takes almost a minute to complete. This has been going on for two days now.,Performance Issue,Critical
+1103,Data not saving after edit,"I edit a record, click save, but the changes disappear after refreshing the page. I have already tried clearing my cache.",Product Defect,High
+1056,Charged twice this month,My card was charged two times for the same subscription plan this billing cycle. Please look into this soon.,Billing Issue,Low
+1075,Invoice amount does not match plan,The invoice I received shows a higher amount than what my current plan should cost. This has been going on for two days now.,Billing Issue,Low
